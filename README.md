@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devina-lim5
 - 👀 I’m interested in Python, HTML and CSS
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently striving and looking forward to grow as a Data Scientist in Indonesia
 - 💞️ I’m looking to collaborate on any projects that would take newbie eager to learn and develop together. I'm a hardworker!
 - 📫 You can contact me on devinalim5@gmail.com
 
